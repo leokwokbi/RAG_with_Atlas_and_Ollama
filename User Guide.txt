@@ -1,0 +1,5 @@
+python .\setup_database.py
+python .\embed_knowledge.py
+python .\RAG_with_Atlas.py
+python .\clear_database.py
+python .\delete_resources.py
